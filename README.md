@@ -109,10 +109,10 @@ These projects are rooted in my core proficiencies:
 
 | 🌐 Platform    | 📍 Link                              |
 |---------------|--------------------------------------|
-| 🧳 LinkedIn    | [linkedin.com/in/yourname](https://linkedin.com) |
-| 🧠 Portfolio   | [yourportfolio.com](https://yourportfolio.com)   |
-| 📬 Email       | your.email@domain.com               |
-| 📄 Resume      | [View Resume](#) *(Insert actual link)*  |
+| 🧳 LinkedIn    | [linkedin.com/in/kambletanmay](https://linkedin.com) |
+| 🧠 Portfolio   | [TRK's portfolio.com](https://trk.framer.website/)   |
+| 📬 Email       | tanmayrkamble26@gmail.com               |
+| 📄 Resume      | [View Resume](https://drive.google.com/file/d/1O0Pt4Hjem1efl7hxJpDBSGhjdQI6ykLj/view) |
 
 ---
 
