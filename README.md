@@ -3,7 +3,7 @@
 <div style="font-family: 'Poppins', sans-serif; line-height: 1.6;">
 
 <h1 align="center">🚀 Welcome to My GitHub Universe</h1>
-<h3 align="center">I'm <strong>Tanmay Kamble</strong> – Cloud Engineer | AI Strategist | Tech Consultant</h3>
+<h3 align="center">I'm <strong>Tanmay Kamble</strong> – Data Engineer Engineer | AI Strategist | Tech Consultant</h3>
 <p align="center"><i>“Turning ideas into scalable tech that transforms organizations.”</i></p>
 
 ---
